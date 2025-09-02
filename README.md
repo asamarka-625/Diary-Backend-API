@@ -27,7 +27,7 @@ Backend для приложения-ежедневника на FastAPI и Postg
 ### 1. Клонирование репозитория
 ```
 bash
-git clone <your-repo-url>
+git clone https://github.com/asamarka-625/Diary-Backend-API.git
 cd diary-backend
 ```
 
