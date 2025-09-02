@@ -26,7 +26,7 @@ Backend для приложения-ежедневника на FastAPI и Postg
 
 ### 1. Клонирование репозитория
 ```
-bash
+# bash
 git clone https://github.com/asamarka-625/Diary-Backend-API.git
 cd diary-backend
 ```
@@ -35,6 +35,7 @@ cd diary-backend
 ```
 Отредактируйте .env с вашими настройками:
 
+# .env
 POSTGRES_DB=diary_db
 POSTGRES_USER=diary_user
 POSTGRES_PASSWORD=diary_password
